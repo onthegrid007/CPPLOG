@@ -1,9 +1,9 @@
-[submodule "vendor/Timestamp"]
-	path = vendor/Timestamp
-	url = https://github.com/onthegrid007/Timestamp
 [submodule "vendor/LifetimeEvent"]
 	path = vendor/LifetimeEvent
 	url = https://github.com/onthegrid007/LifetimeEvent
 [submodule "vendor/Profiler"]
 	path = vendor/Profiler
 	url = https://github.com/onthegrid007/Profiler
+[submodule "vendor/Colors"]
+	path = vendor/Colors
+	url = https://github.com/onthegrid007/Colors
