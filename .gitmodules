@@ -7,3 +7,6 @@
 [submodule "vendor/Colors"]
 	path = vendor/Colors
 	url = https://github.com/onthegrid007/Colors
+[submodule "vendor/CPPSOCK"]
+	path = vendor/CPPSOCK
+	url = https://github.com/onthegrid007/CPPSOCK
